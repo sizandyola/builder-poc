@@ -1,0 +1,365 @@
+{
+  "videos": [
+    {
+      "id": 2,
+      "title": "Bunny_sample",
+      "description": "Sample video",
+      "author": null,
+      "duration": 170,
+      "size": null,
+      "video_url": "https://player.vimeo.com/video/1069537861",
+      "video_thumbnail_url": "http://lyb.test/storage/images/V0yXWNdKNLp81W9L9NSwGOoND5hkFEzdWHfwDdou.png",
+      "status": 2,
+      "created_at": "2025-03-26T11:03:41.000000Z",
+      "updated_at": "2025-03-26T11:03:48.000000Z",
+      "site_id": null,
+      "source": "vimeo",
+      "open_in_external": 0,
+      "suggestions_count": 0,
+      "responsive_thumbnails": [],
+      "is_internal": true,
+      "backup_videos": [],
+      "template": null,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "title": "Medic Tech",
+      "description": ".",
+      "author": null,
+      "duration": 29,
+      "size": null,
+      "video_url": "https://player.vimeo.com/video/1111593877",
+      "video_thumbnail_url": "http://lyb.test/storage/images/aMLdD7A7TniYL7c26hEv1h07SQnBAr9WkyNO6WKt.png",
+      "status": 2,
+      "created_at": "2025-08-20T09:06:17.000000Z",
+      "updated_at": "2025-08-20T09:06:29.000000Z",
+      "site_id": null,
+      "source": "vimeo",
+      "open_in_external": 0,
+      "suggestions_count": 0,
+      "responsive_thumbnails": [],
+      "is_internal": true,
+      "backup_videos": [
+        {
+          "id": 1,
+          "video_id": 3,
+          "video_url": "http://lyb.test/storage/videos/68a5900f7b2db.mp4",
+          "status": 2,
+          "created_at": "2025-08-20T09:06:29.000000Z",
+          "updated_at": "2025-08-20T09:06:29.000000Z"
+        }
+      ],
+      "template": null,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "title": "Mountains",
+      "description": ".",
+      "author": null,
+      "duration": 0,
+      "size": null,
+      "video_url": "https://player.vimeo.com/video/1111594285",
+      "video_thumbnail_url": "http://lyb.test/storage/images/aN52TMuoenVauJIFhboKGflSA35TAyNt85xwPiOt.png",
+      "status": 2,
+      "created_at": "2025-08-20T09:07:21.000000Z",
+      "updated_at": "2025-08-20T09:07:28.000000Z",
+      "site_id": null,
+      "source": "vimeo",
+      "open_in_external": 0,
+      "suggestions_count": 0,
+      "responsive_thumbnails": [],
+      "is_internal": true,
+      "backup_videos": [],
+      "template": null,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "title": "Bridge",
+      "description": ".",
+      "author": null,
+      "duration": 74,
+      "size": null,
+      "video_url": "https://player.vimeo.com/video/1111596800",
+      "video_thumbnail_url": "http://lyb.test/storage/images/Fbw8Fd3FoO3PZCkZ8ax3V7WO5wdsJzNLKEqlCYlM.png",
+      "status": 2,
+      "created_at": "2025-08-20T09:17:53.000000Z",
+      "updated_at": "2025-08-20T09:17:59.000000Z",
+      "site_id": null,
+      "source": "vimeo",
+      "open_in_external": 0,
+      "suggestions_count": 0,
+      "responsive_thumbnails": [],
+      "is_internal": true,
+      "backup_videos": [],
+      "template": null,
+      "order": 0
+    }
+  ],
+  "documents": [
+    {
+      "id": 2,
+      "title": "Document",
+      "description": "doc",
+      "url": "http://localhost:4200/duck1/document-view/assets/documents/2",
+      "thumbnail_url": null,
+      "icon": "far fa-file-word",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/documents/2/2/download",
+      "type": "document",
+      "category_id": 10,
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 1,
+      "title": "lorem-ipsum",
+      "description": "lorem pdf",
+      "url": "http://localhost:4200/duck1/document-view/assets/documents/1",
+      "thumbnail_url": null,
+      "icon": "far fa-file-pdf",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/documents/1/1/download",
+      "type": "document",
+      "category_id": 10,
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 16,
+      "title": "Aflac+Logo+RGB_pos%403x 1",
+      "description": "duck logo",
+      "url": "http://localhost:4200/duck1/document-view/assets/images/16",
+      "icon": "far fa-image",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/images/16/16/download",
+      "type": "image",
+      "category_id": 10,
+      "thumbnail_url": "http://lyb.test/storage/images/PO6xsLVSagT2f8eQmwOk69uE0yMx4TtRNcxyaN3J.png",
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 28,
+      "title": "diagnosis",
+      "description": null,
+      "url": "http://localhost:4200/duck1/document-view/assets/images/28",
+      "icon": "far fa-image",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/images/28/28/download",
+      "type": "image",
+      "category_id": 10,
+      "thumbnail_url": "http://lyb.test/storage/images/gGe0LfbrGU74jhwRs3h119IVraLYix8IjHQZKSP2.png",
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 1,
+      "title": "Google_logo_2013-2015-600x206",
+      "description": "logo",
+      "url": "http://localhost:4200/duck1/document-view/assets/images/1",
+      "icon": "far fa-image",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/images/1/1/download",
+      "type": "image",
+      "category_id": 10,
+      "thumbnail_url": "http://lyb.test/storage/images/uciagmmWO4z1tsmWRK0Xix3N8uEFEBdaXFPmuQ2r.png",
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 12,
+      "title": "image",
+      "description": "duck",
+      "url": "http://localhost:4200/duck1/document-view/assets/images/12",
+      "icon": "far fa-image",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/images/12/12/download",
+      "type": "image",
+      "category_id": 10,
+      "thumbnail_url": "http://lyb.test/storage/images/ywwQDJlBuNgWHc3Kmpgw3hbpWvlhoW5UEf64eB7k.png",
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 11,
+      "title": "image (1)",
+      "description": "duck",
+      "url": "http://localhost:4200/duck1/document-view/assets/images/11",
+      "icon": "far fa-image",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/images/11/11/download",
+      "type": "image",
+      "category_id": 10,
+      "thumbnail_url": "http://lyb.test/storage/images/0Nc5HsTQbhB8mjkj7O0fopu73BYpBwtJMY9A2VLv.png",
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 20,
+      "title": "image (2)",
+      "description": "people 4",
+      "url": "http://localhost:4200/duck1/document-view/assets/images/20",
+      "icon": "far fa-image",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/images/20/20/download",
+      "type": "image",
+      "category_id": 10,
+      "thumbnail_url": "http://lyb.test/storage/images/e94a5uaIJ8U9IXEckq7HvZ7LXCxeKMF4xxoY0H9H.png",
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 19,
+      "title": "image (3)",
+      "description": "people 3",
+      "url": "http://localhost:4200/duck1/document-view/assets/images/19",
+      "icon": "far fa-image",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/images/19/19/download",
+      "type": "image",
+      "category_id": 10,
+      "thumbnail_url": "http://lyb.test/storage/images/BZPVM4lqO77qVec91j8Yv4iEPRFJ5Oqde87QEryP.png",
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 18,
+      "title": "image (4)",
+      "description": "people 2",
+      "url": "http://localhost:4200/duck1/document-view/assets/images/18",
+      "icon": "far fa-image",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/images/18/18/download",
+      "type": "image",
+      "category_id": 10,
+      "thumbnail_url": "http://lyb.test/storage/images/x6jmBfHJ8CtMQXLoYpXp7bPjELfzN8u39tH543Rc.png",
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 17,
+      "title": "image (5)",
+      "description": "people 1",
+      "url": "http://localhost:4200/duck1/document-view/assets/images/17",
+      "icon": "far fa-image",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/images/17/17/download",
+      "type": "image",
+      "category_id": 10,
+      "thumbnail_url": "http://lyb.test/storage/images/1WZa6H1yyUDDr2CVH6XsK2tDHhwgKx8UiXiZb2Ph.png",
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 15,
+      "title": "image 1",
+      "description": "duck",
+      "url": "http://localhost:4200/duck1/document-view/assets/images/15",
+      "icon": "far fa-image",
+      "download_url": "http://lyb.test/api/open/sites/duck1/assets/images/15/15/download",
+      "type": "image",
+      "category_id": 10,
+      "thumbnail_url": "http://lyb.test/storage/images/unCtnNqqKYguogZD3nTRP8CPIvyz010ys0h7qDQZ.png",
+      "responsive_thumbnails": []
+    }
+  ],
+  "links": [
+    {
+      "id": 1,
+      "title": "Link 1",
+      "description": null,
+      "url": "https://google.com",
+      "thumbnail_url": "http://lyb.test/storage/images/R86093gqqkDveGICr1nFHW9TBhvKpCRQRrG1RSTd.png",
+      "open_in_external": 1,
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 2,
+      "title": "Link 2",
+      "description": null,
+      "url": "https://google.com",
+      "thumbnail_url": null,
+      "open_in_external": 1,
+      "responsive_thumbnails": []
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "title": "Address 1",
+      "description": null,
+      "value": "Ktm Ktm",
+      "type": 4,
+      "thumbnail_url": null,
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 2,
+      "title": "Address 2",
+      "description": null,
+      "value": "Ktm Ktm",
+      "type": 4,
+      "thumbnail_url": null,
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 5,
+      "title": "Contact 1",
+      "description": null,
+      "value": "9810101010",
+      "type": 2,
+      "thumbnail_url": "http://lyb.test/storage/images/k5Xbpa8rxxSnftGZpk6K0gsiuZ9xuMdfboXOaRe0.png",
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 6,
+      "title": "Contact 2",
+      "description": null,
+      "value": "9810101010",
+      "type": 2,
+      "thumbnail_url": null,
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 3,
+      "title": "Email 1",
+      "description": null,
+      "value": "email1@email.com",
+      "type": 1,
+      "thumbnail_url": null,
+      "responsive_thumbnails": []
+    },
+    {
+      "id": 4,
+      "title": "Email 2",
+      "description": null,
+      "value": "email2@email.com",
+      "type": 1,
+      "thumbnail_url": null,
+      "responsive_thumbnails": []
+    }
+  ],
+  "calculators": [
+    {
+      "id": 1,
+      "title": "Calculator 1",
+      "description": ".",
+      "url": "https://google.com",
+      "status": 2,
+      "site_id": null,
+      "created_at": "2025-08-20T09:39:29.000000Z"
+    },
+    {
+      "id": 2,
+      "title": "Calculator 2",
+      "description": ".",
+      "url": "https://google.com",
+      "status": 2,
+      "site_id": null,
+      "created_at": "2025-08-20T09:39:48.000000Z"
+    }
+  ],
+  "calculator_v2": [
+    {
+      "id": 1,
+      "title": "Calculator 1",
+      "description": ".",
+      "url": "https://google.com",
+      "status": 2,
+      "site_id": null,
+      "created_at": "2025-08-20T09:39:29.000000Z",
+      "calculator_type": "Calculator"
+    },
+    {
+      "id": 2,
+      "title": "Calculator 2",
+      "description": ".",
+      "url": "https://google.com",
+      "status": 2,
+      "site_id": null,
+      "created_at": "2025-08-20T09:39:48.000000Z",
+      "calculator_type": "Calculator"
+    }
+  ]
+}

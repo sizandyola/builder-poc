@@ -1,0 +1,328 @@
+{
+  "id": 4,
+  "title": "Duck1",
+  "description": null,
+  "domain": "duck1",
+  "message": "<h1 style=\"text-align: center;\"><strong>Personalized Benefits Administration That Puts You First</strong></h1><p style=\"text-align: center;\">At 121 Benefits, we believe benefits should work for people, not the other way around. Our dedicated, one-on-one service model ensures every client feels like our only client...</p>",
+  "logo_url": "http://lyb.test/api/open/sites/duck1/assets/site/4/vL6JKN1AaAvgKIWRJZmih3ZiDMGdpy7pnCXZ4FDp.png",
+  "primary_color": "#90dc8c",
+  "secondary_color": "#b65b5b",
+  "layout": "lyb-local-tile-plus",
+  "global_video": 2,
+  "parent_id": 1,
+  "display_logo": true,
+  "templates": [
+    {
+      "id": 327,
+      "template_name": "lyb-local-tile-plus",
+      "title": "Tile plus nested",
+      "template_url": "http://lyb.test/api/assets/themes/Sr8MchAS",
+      "template_type": 2,
+      "status": 1,
+      "version": 112,
+      "created_at": "2025-11-06T05:43:36.000000Z",
+      "updated_at": "2025-11-06T05:43:36.000000Z",
+      "is_default": 0,
+      "reseller_theme": 2,
+      "template_entry_point": "http://lyb.test/api/assets/themes/Sr8MchAS/lyb-local-tile-plus.js"
+    }
+  ],
+  "reseller": null,
+  "categories": [
+    {
+      "id": 90,
+      "title": "Flexible Spending Accounts (FSAs)",
+      "description": null,
+      "icon": null,
+      "order": 1,
+      "header": null,
+      "footer": null,
+      "site_id": 4,
+      "lang": "en",
+      "thumbnail_url": null,
+      "responsive_thumbnails": [],
+      "children": [
+        {
+          "id": 12,
+          "title": "Image",
+          "description": null,
+          "icon": "fas fa-address-book",
+          "order": 2,
+          "header": null,
+          "footer": null,
+          "site_id": 4,
+          "lang": "en",
+          "thumbnail_url": null,
+          "responsive_thumbnails": [],
+          "children": [
+            {
+              "id": 10,
+              "title": "Contact",
+              "description": "this is contact",
+              "icon": null,
+              "order": 3,
+              "header": "<h1 style=\"text-align: center;\">Put your paycheck to work with Flexible Spending Account</h1><p style=\"text-align: center;\">From copays and prescriptions to daycare and dental visits, your FSA keeps more of your hard-earned money where it belongs: in your pocket.</p>",
+              "footer": "<p style=\"text-align: center;\">Put your paycheck to work with a Flexible Spending Account. FSAs let you set aside pre-tax dollars for everyday health and dependent care expenses, saving you money on things you already buy. Easy to use, simple to manage, and built to save your future self will thank you.</p>",
+              "site_id": 4,
+              "lang": "en",
+              "thumbnail_url": "http://lyb.test/storage/images/vDvPmpz7hecHw00KQ9T39uRJjvmrBfL9HmlZKqgb.png",
+              "responsive_thumbnails": []
+            },
+            {
+              "id": 15,
+              "title": "T3",
+              "description": null,
+              "icon": null,
+              "order": 4,
+              "header": null,
+              "footer": null,
+              "site_id": 4,
+              "lang": "en",
+              "thumbnail_url": null,
+              "responsive_thumbnails": []
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "title": "T5",
+          "description": null,
+          "icon": null,
+          "order": 8,
+          "header": null,
+          "footer": null,
+          "site_id": 4,
+          "lang": "en",
+          "thumbnail_url": null,
+          "responsive_thumbnails": [],
+          "children": [
+            {
+              "id": 13,
+              "title": "T1",
+              "description": null,
+              "icon": "fas fa-adjust",
+              "order": 9,
+              "header": null,
+              "footer": null,
+              "site_id": 4,
+              "lang": "en",
+              "thumbnail_url": null,
+              "responsive_thumbnails": []
+            },
+            {
+              "id": 89,
+              "title": "T6",
+              "description": null,
+              "icon": null,
+              "order": 10,
+              "header": null,
+              "footer": null,
+              "site_id": 4,
+              "lang": "en",
+              "thumbnail_url": null,
+              "responsive_thumbnails": []
+            }
+          ]
+        },
+        {
+          "id": 91,
+          "title": "T8",
+          "description": null,
+          "icon": null,
+          "order": 5,
+          "header": null,
+          "footer": null,
+          "site_id": 4,
+          "lang": "en",
+          "thumbnail_url": null,
+          "responsive_thumbnails": [],
+          "children": [
+            {
+              "id": 14,
+              "title": "T2",
+              "description": null,
+              "icon": "fas fa-alarm-clock",
+              "order": 6,
+              "header": null,
+              "footer": null,
+              "site_id": 4,
+              "lang": "en",
+              "thumbnail_url": null,
+              "responsive_thumbnails": []
+            },
+            {
+              "id": 87,
+              "title": "T4",
+              "description": null,
+              "icon": "fas fa-adjust",
+              "order": 7,
+              "header": null,
+              "footer": null,
+              "site_id": 4,
+              "lang": "en",
+              "thumbnail_url": null,
+              "responsive_thumbnails": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": [
+    {
+      "id": 29,
+      "site_id": 4,
+      "key": "enable_button_resources",
+      "value": "1",
+      "type": "boolean",
+      "group_name": "Other",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 30,
+      "site_id": 4,
+      "key": "enable_campaigns",
+      "value": "1",
+      "type": "boolean",
+      "group_name": "LandingPage",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 31,
+      "site_id": 4,
+      "key": "enable_site_suggestions",
+      "value": "1",
+      "type": "boolean",
+      "group_name": "Video",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 32,
+      "site_id": 4,
+      "key": "enable_category_thumbnail",
+      "value": "1",
+      "type": "boolean",
+      "group_name": "Page",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 33,
+      "site_id": 4,
+      "key": "enable_homepage_resource",
+      "value": "1",
+      "type": "boolean",
+      "group_name": "Homepage",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-28T05:59:26.000000Z"
+    },
+    {
+      "id": 34,
+      "site_id": 4,
+      "key": "enable_sso",
+      "value": "0",
+      "type": "boolean",
+      "group_name": "Other",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 35,
+      "site_id": 4,
+      "key": "enable_site_video_upload",
+      "value": "1",
+      "type": "boolean",
+      "group_name": "Video",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 36,
+      "site_id": 4,
+      "key": "max_campaign_limit",
+      "value": "1",
+      "type": "integer",
+      "group_name": "LandingPage",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 37,
+      "site_id": 4,
+      "key": "enable_homepage_layout",
+      "value": "1",
+      "type": "boolean",
+      "group_name": "Homepage",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-28T05:59:26.000000Z"
+    },
+    {
+      "id": 38,
+      "site_id": 4,
+      "key": "enable_video_template",
+      "value": "1",
+      "type": "boolean",
+      "group_name": "Video",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 39,
+      "site_id": 4,
+      "key": "enable_sms",
+      "value": "0",
+      "type": "boolean",
+      "group_name": "SMS",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 40,
+      "site_id": 4,
+      "key": "sms_monthly_quota",
+      "value": "5",
+      "type": "integer",
+      "group_name": "SMS",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 41,
+      "site_id": 4,
+      "key": "sms_character_limit",
+      "value": "150",
+      "type": "integer",
+      "group_name": "SMS",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    },
+    {
+      "id": 42,
+      "site_id": 4,
+      "key": "enable_category_lang",
+      "value": "1",
+      "type": "boolean",
+      "group_name": "Page",
+      "created_at": "2025-10-07T11:07:09.000000Z",
+      "updated_at": "2025-10-07T11:07:09.000000Z"
+    }
+  ],
+  "homepage_layout": {
+    "id": 2,
+    "banner": "http://lyb.test/storage/temp/images/Zld2bnamEQuUkA574z3v0kcmarQZVbEK0csdsL0r.png",
+    "title": "Duck",
+    "site_id": 4,
+    "created_by": 2,
+    "updated_by": 2,
+    "deleted_by": null,
+    "created_at": "2025-10-07T11:07:09.000000Z",
+    "updated_at": "2025-10-07T11:07:09.000000Z",
+    "deleted_at": null,
+    "footer": "<p>Donald</p>",
+    "sub_footer": 0
+  },
+  "has_password": false
+}

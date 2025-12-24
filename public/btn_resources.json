@@ -1,0 +1,34 @@
+{
+  "header": [
+    {
+      "id": 3,
+      "title": "Button",
+      "placement": "header",
+      "icon": "fas fa-alarm-clock",
+      "class_name": null,
+      "text_color": "#ffffff",
+      "background_color": "#000000",
+      "order": 1,
+      "type": "scroll",
+      "content": "#1",
+      "property": "{}",
+      "button_style": 1
+    }
+  ],
+  "navbar": [
+    {
+      "id": 12,
+      "title": "nav",
+      "placement": "navbar",
+      "icon": "fas fa-adjust",
+      "class_name": null,
+      "text_color": "#ffffff",
+      "background_color": "#000000",
+      "order": 1,
+      "type": "link",
+      "content": "https://www.google.com",
+      "property": "{}",
+      "button_style": 2
+    }
+  ]
+}
