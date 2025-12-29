@@ -2,9 +2,10 @@
 
 A comprehensive drag-and-drop website builder for creating multi-page marketing websites using React and Craft.js. Build professional websites with **23 ready-to-use components** organized into Layout, Content, UI, and Form categories.
 
-## ✨ Features
+## ✨ Featuress
 
 ### Core Capabilities
+
 - **🎨 23 Drag-and-Drop Components** - Extensive component library
 - **💾 Auto-Save** - Changes persist automatically to localStorage
 - **📱 Multi-Page Support** - Create unlimited pages with navigation
@@ -17,6 +18,7 @@ A comprehensive drag-and-drop website builder for creating multi-page marketing 
 ### Component Library
 
 #### Layout Components (5)
+
 - **Container** - Flexible layout with flexbox controls
 - **Grid** - CSS Grid with configurable columns
 - **Columns** - Multi-column layouts
@@ -24,6 +26,7 @@ A comprehensive drag-and-drop website builder for creating multi-page marketing 
 - **Divider** - Horizontal dividers with styles
 
 #### Content Components (6)
+
 - **Heading** - H1-H6 headings
 - **Text** - Editable text blocks
 - **RichText** - HTML-enabled rich text
@@ -32,6 +35,7 @@ A comprehensive drag-and-drop website builder for creating multi-page marketing 
 - **Logo** - Brand/logo images
 
 #### UI Components (7)
+
 - **Button** - Interactive buttons with page navigation
 - **Card** - Content cards with shadows
 - **Hero** - Full-width hero sections
@@ -41,6 +45,7 @@ A comprehensive drag-and-drop website builder for creating multi-page marketing 
 - **Badge** - Small labels/badges
 
 #### Form Components (5)
+
 - **Form Wrapper** - Styled form container
 - **Input** - Text/email/password inputs
 - **TextArea** - Multi-line text input
@@ -109,6 +114,7 @@ The application loads in **view mode** - your website appears without any editor
 #### 3. Nesting Components
 
 Some components can contain others:
+
 - **Containers** - Drop any component inside
 - **Grid** - Automatically creates grid cells
 - **Columns** - Add components to each column
@@ -116,6 +122,7 @@ Some components can contain others:
 - **Form Wrapper** - Add form fields
 
 **To nest:**
+
 1. Drag a component
 2. Hover over a container (it highlights)
 3. Drop inside the container
@@ -147,11 +154,13 @@ Make buttons navigate between pages:
 #### 7. Export/Import
 
 **Export (Save your work):**
+
 1. Stay in edit mode
 2. Click **"Export All Pages"** in the top bar
 3. A JSON file downloads with all your pages
 
 **Import (Load saved work):**
+
 1. Click **"Import Pages"** in the top bar
 2. Select your previously exported JSON file
 3. All pages load instantly
@@ -195,6 +204,7 @@ Make buttons navigate between pages:
 ## 🎯 Common Use Cases
 
 ### Landing Page
+
 1. Hero section with title/subtitle
 2. Container with feature cards (Grid + Cards)
 3. Call-to-action buttons
@@ -202,12 +212,14 @@ Make buttons navigate between pages:
 5. Footer with links
 
 ### Multi-Page Website
+
 1. Create pages: Home, About, Services, Contact
 2. Add Navbar to all pages
 3. Configure buttons to navigate between pages
 4. Export when done
 
 ### Portfolio
+
 1. Hero with your name/title
 2. Grid of project cards (Images + Text)
 3. About section (Container + RichText)
@@ -234,6 +246,7 @@ Make buttons navigate between pages:
 ### Data Storage
 
 All data stored locally in your browser:
+
 - `craftjs-pages` - Your page content
 - `craftjs-current-page` - Active page
 - `craftjs-editor-mode` - Edit mode state
@@ -243,7 +256,9 @@ All data stored locally in your browser:
 ## 📚 Component Reference
 
 ### Container
+
 Flexible layout container with:
+
 - Background color
 - Padding control
 - Flex direction (row/column)
@@ -251,13 +266,17 @@ Flexible layout container with:
 - Gap between items
 
 ### Grid
+
 CSS Grid layout with:
+
 - 1-12 columns
 - Gap control
 - Responsive by default
 
 ### Button
+
 Interactive button with:
+
 - Customizable text
 - Colors (background, text)
 - Size and padding
@@ -265,7 +284,9 @@ Interactive button with:
 - **Page navigation** capability
 
 ### Hero
+
 Full-width hero section with:
+
 - Background image/color
 - Dark overlay option
 - Title and subtitle (editable)
@@ -273,7 +294,9 @@ Full-width hero section with:
 - Adjustable height
 
 ### Form Components
+
 All form components include:
+
 - Label customization
 - Required field indicator
 - Full/fixed width options
@@ -282,20 +305,24 @@ All form components include:
 ## 🐛 Troubleshooting
 
 **Components won't drag:**
+
 - Ensure you're in edit mode
 - Try refreshing the page
 
 **Changes not saving:**
+
 - Check browser console for errors
 - Ensure localStorage is not full
 - Try exporting and re-importing
 
 **Page looks broken:**
+
 - Click "View Mode" to see clean output
 - Try undoing recent changes
 - Export and start fresh if needed
 
 **Can't see Edit button:**
+
 - Check top-right corner of screen
 - Try refreshing the browser
 
@@ -306,6 +333,7 @@ This project uses React (MIT), Craft.js (MIT), and other open-source libraries.
 ## 🙏 Credits
 
 Built with:
+
 - [Craft.js](https://craft.js.org/) - Page builder framework
 - [React](https://react.dev/) - UI library
 - [Vite](https://vitejs.dev/) - Build tool
